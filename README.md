@@ -8,7 +8,7 @@
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-374151?style=for-the-badge&logo=handshake&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-374151?style=for-the-badge)
 
 <br/>
 
