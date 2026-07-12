@@ -78,14 +78,6 @@ A web-based student records manager for adding, viewing, and organizing student 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="./profile-trophy.svg" alt="trophies" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -94,7 +86,7 @@ A web-based student records manager for adding, viewing, and organizing student 
 
 ---
 
-## 🤝 Connect With Me 
+## 🤝 Connect With Me
 
 <div align="center">
 
