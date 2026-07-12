@@ -39,7 +39,7 @@ const abhasVerma = {
 A web-based student records manager for adding, viewing, and organizing student data through a clean, simple interface.
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abhasx&repo=Student-Management-System&theme=nord&border_color=374151&title_color=374151&text_color=333333" alt="Student Management System pin"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abhasx&repo=Student-Management-System&theme=nord" alt="Student Management System pin"/>
 </div>
 
 | Layer     | Technology       |
@@ -68,8 +68,8 @@ A web-based student records manager for adding, viewing, and organizing student 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhasx&show_icons=true&theme=nord&border_color=374151&title_color=374151&text_color=333333&icon_color=374151" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhasx&layout=compact&theme=nord&border_color=374151&title_color=374151&text_color=333333" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abhasx&show_icons=true&theme=nord" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhasx&layout=compact&theme=nord" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
@@ -94,7 +94,7 @@ A web-based student records manager for adding, viewing, and organizing student 
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me 
 
 <div align="center">
 
