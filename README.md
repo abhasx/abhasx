@@ -81,7 +81,7 @@ A web-based student records manager for adding, viewing, and organizing student 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abhasx&theme=nord&no-frame=true&no-bg=true&margin-w=10" alt="trophies" />
+  <img src="./profile-trophy.svg" alt="trophies" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ A web-based student records manager for adding, viewing, and organizing student 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhasx&theme=nord&bg_color=ffffff00&color=374151&line=374151&point=1f2937" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhasx&bg_color=ffffff&color=374151&title_color=374151&line=374151&point=1f2937&area=true&area_color=374151&hide_border=true" alt="activity graph" />
 </div>
 
 ---
