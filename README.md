@@ -1,6 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:1f2937,100:374151&height=200&section=header&text=Abhas%20Verma&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:374151&height=200&section=header&text=Abhas%20Verma&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=374151&center=true&vCenter=true&width=600&lines=Java+Developer+in+the+making;Spring+Boot+%7C+REST+API+%7C+SQL;Data+Structures+%26+Algorithms;Building+one+project+at+a+time" alt="Typing SVG" />
@@ -37,7 +36,6 @@ const abhasVerma = {
 ## 🚀 Featured Projects
 
 ### 📌 Student Management System
-
 A web-based student records manager for adding, viewing, and organizing student data through a clean, simple interface.
 
 <div align="center">
@@ -57,15 +55,12 @@ A web-based student records manager for adding, viewing, and organizing student 
 ## 🛠️ Tech Stack
 
 **Languages**
-
 ![Skills](https://skillicons.dev/icons?i=java)
 
 **Backend / Infra**
-
 ![Skills](https://skillicons.dev/icons?i=spring,mysql)
 
 **Dev Tools**
-
 ![Skills](https://skillicons.dev/icons?i=git,github)
 
 ---
@@ -108,4 +103,4 @@ A web-based student records manager for adding, viewing, and organizing student 
 
 </div>
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:374151,100:1f2937&height=120&section=footer&animation=twinkling" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,100:1f2937&height=120&section=footer&animation=twinkling" alt="footer" />
